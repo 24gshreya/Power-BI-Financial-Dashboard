@@ -5,11 +5,16 @@ This Power BI project provides an interactive dashboard for financial analysis u
 File name: FinancialPowerBI.pbix
 
 ## Features
-- Financial Analysis Dashboard:  This report page is designed to use as a interactive dashboard.
-- Sales Overview:                Sales performance over year and factors impacted the sales performance
-- Regional Performance:          Details sales, profit, discount analysis over the regions
-- Product Analysis:              Sales by product and segment, quick overview of segment data
-- Profitabilty Insights:         Discount and profit margin impacted sales, forecasted profit based on discount adjustment over year
+- Financial Analysis Dashboard: This report page is designed to use as a interactive dashboard
+  [Screenshot] - Screenshot/Financial Analysis Dashboard.jpg
+- Sales Overview: Sales performance over year and factors impacted the sales performance
+  [Screenshot] - Screenshot/Sales Overview.jpg
+- Regional Performance: Details sales, profit, discount analysis over the regions
+  [Screenshot] - Screenshot/Regional Performance.jpg
+- Product Analysis: Sales by product and segment, quick overview of segment data
+  [Screenshot] - Screenshot/Product Analysis.jpg
+- Profitabilty Insights: Discount and profit margin impacted sales, forecasted profit based on discount adjustment over year
+  [Screenshot] - Screenshot/Profitability Insights.jpg
 
 ## Dataset
 File name: Financial Sample.xlsx
